@@ -1,0 +1,9 @@
+name: MyFirstPlugin
+main: nl.jeroensturm.myfirstplugin.MyFirstPlugin
+version: 0.1
+commands:
+   ignite:
+      description: This is set the player on fire.
+      usage: /<command> [player]
+      permission:
+      permission-message: You don't have <permission>
